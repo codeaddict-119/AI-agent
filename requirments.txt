@@ -1,0 +1,12 @@
+1.speech_recognition as sr
+2.os
+3.webbrowser
+4.datetime
+5.OpenAI
+6.pyttsx3
+7.sys
+pip install pyttsx3
+pip install speechrecognition
+pip install openai
+pip install pipwin
+pipwin install pyaudio
