@@ -1,3 +1,4 @@
+NOTE: I have used python library documentation pages and A.I assistance to build this ai agent 
 🧠 How Does It Work? (The Simple Version)
 Imagine your assistant is like a security guard sitting behind a desk. Here is the step-by-step process of what happens from the moment you speak until the moment it responds.
 
