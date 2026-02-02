@@ -14,7 +14,7 @@ client = OpenAI(api_key=apikey)
 # Text to Speech 
 engine = pyttsx3.init('sapi5')
 voices = engine.getProperty('voices')
-engine.setProperty('voice', voices[0].id) # 0 for male, 1 for female
+engine.setProperty('voice', voices[0].id) # 0 for male 1 for female
 
 def say(text):
     print(f"Assistant: {text}")
