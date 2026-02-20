@@ -101,4 +101,4 @@ if __name__ == "__main__":
 
         else:
             response = ai(prompt=query)
-            say(response)
+            say(response)                                                           
