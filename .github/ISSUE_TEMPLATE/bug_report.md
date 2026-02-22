@@ -12,10 +12,13 @@ A clear and concise description of what the bug is.
 
 **To Reproduce**
 Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Start the AI agent
+2. Ask: "Summarize this text"
+3. Provide a long paragraph
+4. Agent stops responding after 5 seconds
+5. See error
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
