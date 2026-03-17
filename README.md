@@ -54,6 +54,6 @@ Saves the full conversation into a .txt file so you can read it later without ru
 
 ## License
 
-MIT License
+MIT 
 
 
